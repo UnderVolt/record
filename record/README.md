@@ -105,4 +105,4 @@ record.dispose(); // As always, don't forget this one.
 <true/>
 ```
 
-- min SDK: 10.15
+- min SDK: 10.14

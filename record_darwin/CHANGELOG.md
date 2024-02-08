@@ -25,7 +25,7 @@
 * chore: Update platform interface.
 * fix(iOS): start AVCaptureSession from background thread.
 * fix: PCM stream now takes accurate num channels from current connection.
-* feat: Allow new method to retrieve audio data from macOS 10.15 & iOS 13.
+* feat: Allow new method to retrieve audio data from macOS 10.14 & iOS 13.
 
 ## 1.0.0-beta.1+4
 * fix: Just don't publish it from Windows.

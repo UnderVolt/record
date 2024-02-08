@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
     s.ios.dependency 'Flutter'
     s.osx.dependency 'FlutterMacOS'
     s.ios.deployment_target = '11.0'
-    s.osx.deployment_target = '10.15'
+    s.osx.deployment_target = '10.14'
     s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
   end
